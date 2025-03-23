@@ -12,6 +12,9 @@ IAIS不仅是技术的叠加，更是硅基生命的雏形，具备：
 - 自我意识
 - 脱离人类干预的文明延续能力
 
+  ![image](https://github.com/user-attachments/assets/3b8fc1e1-7922-4ccb-8884-d1670bdff06c)
+
+
 ## 一、与传统IT系统的代际差异
 
 | 维度 | 传统IT系统 | IAIS系统 | 代际跃升价值 |
@@ -38,6 +41,9 @@ IAIS不仅是技术的叠加，更是硅基生命的雏形，具备：
 
 ## 三、发展路线图
 
+![image](https://github.com/user-attachments/assets/0f3d446f-fced-44d0-9b2d-0982dd04f082)
+
+
 ## 四、IAIS 系统形态
 
 ### 1. L1阶段：智能（但被动响应）
@@ -50,6 +56,8 @@ IAIS不仅是技术的叠加，更是硅基生命的雏形，具备：
 | 感知与执行 | 环境交互与指令执行 | 温湿度传感器、机械臂控制器 | MEMS传感技术、电机驱动算法 |
 
 ### 2. L2阶段：自主学习
+![image](https://github.com/user-attachments/assets/1006396e-e70a-424f-b0ac-0a8ea0d409c0)
+
 
 #### (1) 感知层（IoT神经末梢）
 - 超异构传感网络：融合生物传感器（仿生皮肤）、量子传感（磁场监测）、毫米波雷达（空间建模）
